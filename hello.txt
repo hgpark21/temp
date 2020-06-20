@@ -1,1 +1,2 @@
 Change the content of the file.
+	Add the second line.
